@@ -1,16 +1,17 @@
-### Hi there 👋
+# install tools
 
-<!--
-**Traversxd/Traversxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pkg update && pkg upgrade
 
-Here are some ideas to get you started:
+pkg install python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pkg install git
+
+pip install mechanize requests
+
+pip install bs4 rich
+
+git clone https://github.com/Traversxd/Traversxd
+
+cd Traversxd
+
+python open.py
